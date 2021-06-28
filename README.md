@@ -2,12 +2,12 @@
 
 
 
-Name: Tejal Kadam
+**Name**: Tejal Kadam
 
-NUID: 001305309
+**NUID**: 001305309
 
-Email: kadam.t@northeastern.edu
+**Email**: kadam.t@northeastern.edu
 
-Department: MGEN- Telecommunication Network
+**Department**: MGEN- Telecommunication Network
 
-University: Northeastern University
+**University**: Northeastern University
